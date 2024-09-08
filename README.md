@@ -32,7 +32,7 @@ I'm a 19 years old learner, who loves crafting seamless web experiences, debuggi
 </p>
 
 ## Projects I'm Proud Of
---- 
+
 <div style="background: #6b96f41b; border: 2px solid #002dff; padding: 4px 16px;">
 <h3>Neuradriz 🔥</h3>
 
