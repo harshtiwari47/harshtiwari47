@@ -8,7 +8,7 @@
 
 <div style="background: #f46b6b1b; border-left: 5px solid #ff0000; padding: 4px 16px;">
 <h3>About Me 🙋🏻</h3>
-I'm a 19 years old learner, who loves crafting seamless web experiences, debugging with a detective's precision, or exploring new technologies, I’m always up for the challenge! 
+I'm a 20 years old learner, who loves crafting seamless web experiences, debugging with a detective's precision, or exploring new technologies, I’m always up for the challenge! 
 </div>
 
 - 🌱 ***Currently learning:***
@@ -22,9 +22,7 @@ I'm a 19 years old learner, who loves crafting seamless web experiences, debuggi
 - 🔧 ***Tools:***
 
    ![Visual Code](https://camo.githubusercontent.com/97e77bb8ef2cb06bce18bd7d7979c4f9a1578e16c68c029908d6e04d14d6086e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465) ![Notion](https://camo.githubusercontent.com/a0e4503e87270c05c76e1b69e7f68169b8323e1096b0febbabf4a2d988827100/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465)
-- 🌍 ***I’m building:***
 
-   🤖 `JS Neural Network`
 - 📖 ***Fun fact:***
 
    I thrive on caffeine and spontaneous coding marathons!
@@ -32,20 +30,6 @@ I'm a 19 years old learner, who loves crafting seamless web experiences, debuggi
 <p style="display: grid; place-items: center;">
 <img alt="arshtiwari47's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshtiwari47&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
 </p>
-
-## Projects I'm Proud Of
-
-<div style="background: #6b96f41b; border: 2px solid #002dff; padding: 4px 16px;">
-<h3>Neuradriz 🔥</h3>
-
-- <b>Tech Stack</b>:
-  
-  ![Javascript](https://camo.githubusercontent.com/d10abfab8c57e464869979db2ceb752bfc243e7158b9ae8433223a6936de8214/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d7768697465)
-- <b>Description</b>: A simple Neural Network build using pure javascript.
-
-   <a style="text-decoration: none; padding: 6px; border-bottom: 1px solid #628dd8" href="https://github.com/harshtiwari47/neuradriz"><b>VISIT REPOSITORY</b></a>
-
-</div>
 
 ## Connect with Me
 <p style="padding: 16px">
